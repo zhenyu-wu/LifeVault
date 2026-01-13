@@ -35,3 +35,11 @@ Stoicism is an ancient Greek and Roman philosophy focused on living a virtuous, 
 -  Seneca: Roman statesman, playwright and philosopher
 -  Epictetus: former slave, influential teacher
 - Marcus Aurelius: Roman emperor, author of Meditations
+
+Roman Names
+
+*cognomen* was the 3rd name of a citizen of ancient Rome, often developed to distinguish branches of the family from one another and occasionally to highlight an individual's achievement, typically in warfare. 
+
+For those who already bore a *cognomen*,  *agnomen* was awarded as another exclusive name.  
+
+For eight decades, no Roman emperor had a legitimate son to make heir, and the new circumstance forced a difficult choice on Marcus. Selective adoption had served the empire extremely well, producing a run of sound rulers that has come to be known as the Five Good Emperors. 
