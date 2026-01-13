@@ -36,7 +36,7 @@ Stoicism is an ancient Greek and Roman philosophy focused on living a virtuous, 
 -  Epictetus: former slave, influential teacher
 - Marcus Aurelius: Roman emperor, author of Meditations
 
-Roman Names
+**Roman Names**
 
 *cognomen* was the 3rd name of a citizen of ancient Rome, often developed to distinguish branches of the family from one another and occasionally to highlight an individual's achievement, typically in warfare. 
 
