@@ -12,3 +12,26 @@ If I’m still churning away in my professional life, it will be hard, maybe imp
 Why does it matter if we go out calmly or kicking and squalling? The Dalai Lama believes that it will be easier to bear if we pass calmly to the next life and if death does not take us completely by surprise. There will be less pain for us overall. Less suffering. As dramatic rehearsals make the play easier to perform, rehearsing our end might make it smoother.
 
 There’s also the effect we have on the people who love us and whom we love. No one wants to be remembered as a ranting, near mad man or woman, though on a certain level there is plenty of reason to rail against death.
+
+##### Stoicism
+
+Stoicism is an ancient Greek and Roman philosophy focused on living a virtuous, rational life by developing inner strength, focusing on what you control (your reactions), and accepting what you cannot, aiming for `eudaimonia` (flourishing) through wisdom, justice, courage and self-discipline, finding tranquility amidst adversity by aligning with nature's reason. It teaches that external events don't cause suffering, but rather our judgments about them, making self-control and character the key to happiness. 
+
+**Core Principles and Beliefs**
+-  Virtue is the sole good: wisdom, justice courage and temperance (self-control) are the path to a good life. 
+-  Dichotomy of Control: focus energy on your own throughs, action and character; accept external events (health, reputation, wealth) with equanimity. 
+-  Living in accordance with nature: understand the universe operates by reason (Logos) and align your rational will with this cosmic order. 
+-  Tranquility: achieve inner peace by managing destructive emotions through reason and understanding. 
+-  Love of Fate: embrace and accept everything that happens as necessary and as an opportunity for growth. 
+
+**Key Practice**
+-  Negative visualization:  contemplating potential losses to appreciate what you have. 
+- Objective representation: seeing things as they are, without adding emotional judgment. 
+- Dichotomy of Control Exercises: daily reflection on what you can and cannot control. 
+-  Virtue ethics: viewing every situation as a chance to practice courage, justice, wisdom or temperance. 
+
+**Famous Stoics**
+-  Zeno of Citium: founder  of Stoicism
+-  Seneca: Roman statesman, playwright and philosopher
+-  Epictetus: former slave, influential teacher
+- Marcus Aurelius: Roman emperor, author of Meditations
