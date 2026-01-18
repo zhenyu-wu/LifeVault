@@ -38,8 +38,9 @@ Roth-conversion
 	-  Earning in After-Tax account is taxable
 - Roth fund grows without tax. 
 
+##### US Treasury EE vs. I-Bonds
 
-
+[US Treasury EE bonds](https://www.google.com/search?q=US+Treasury+EE+bonds&rlz=1C5AJCO_enUS1194US1194&sca_esv=53adf50e10334de7&sxsrf=ANbL-n49RbE9q8swewN6tZQffigadgk3-g%3A1768764574630&ei=njRtaeGUJrvk5NoP0qrd8Q8&ved=2ahUKEwj1xNjF6ZWSAxVgKlkFHcygEQcQgK4QegQIARAD&uact=5&oq=us+treasury+ee+bonds+vs+i+bonds&gs_lp=Egxnd3Mtd2l6LXNlcnAiH3VzIHRyZWFzdXJ5IGVlIGJvbmRzIHZzIGkgYm9uZHMyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYqwIyBRAhGJ8FMgUQIRifBTIFECEYnwVIzRdQ2AZY2xZwAXgBkAEAmAFmoAHEB6oBBDEwLjG4AQPIAQD4AQGYAgygAokIwgIKEAAYRxjWBBiwA8ICCxAAGIAEGIoFGJECwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAggQABiJBRiiBMICBRAAGO8FmAMAiAYBkAYIkgcDOS4zoAedTLIHAzguM7gHhAjCBwUwLjUuN8gHJ4AIAQ&sclient=gws-wiz-serp) offer a fixed rate and a guarantee to double your money in 20 years, providing predictable, long-term growth, while [Series I bonds](https://www.google.com/search?q=Series+I+bonds&rlz=1C5AJCO_enUS1194US1194&sca_esv=53adf50e10334de7&sxsrf=ANbL-n49RbE9q8swewN6tZQffigadgk3-g%3A1768764574630&ei=njRtaeGUJrvk5NoP0qrd8Q8&ved=2ahUKEwj1xNjF6ZWSAxVgKlkFHcygEQcQgK4QegQIARAE&uact=5&oq=us+treasury+ee+bonds+vs+i+bonds&gs_lp=Egxnd3Mtd2l6LXNlcnAiH3VzIHRyZWFzdXJ5IGVlIGJvbmRzIHZzIGkgYm9uZHMyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYqwIyBRAhGJ8FMgUQIRifBTIFECEYnwVIzRdQ2AZY2xZwAXgBkAEAmAFmoAHEB6oBBDEwLjG4AQPIAQD4AQGYAgygAokIwgIKEAAYRxjWBBiwA8ICCxAAGIAEGIoFGJECwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAggQABiJBRiiBMICBRAAGO8FmAMAiAYBkAYIkgcDOS4zoAedTLIHAzguM7gHhAjCBwUwLjUuN8gHJ4AIAQ&sclient=gws-wiz-serp) provide inflation protection with a variable rate (fixed rate + inflation rate), making them better for preserving purchasing power during high inflation, though both have purchase limits and similar tax treatments (deferred federal tax, no state/local tax). The key choice is between EE's guaranteed doubling for simplicity versus I's inflation-adjusted flexibility.
 
 
 
