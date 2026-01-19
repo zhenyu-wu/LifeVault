@@ -1,6 +1,8 @@
 
 ##### US Treasury I / EE Bonds
 
+^f5c607
+
 When cashing U.S. Treasury I bonds and rolling the proceeds into a Coverdell ESA, the interest can be tax-free if used for qualified education expenses. This should be reported on Form 8815 (Exclusion of Interest From Series EE and I Savings Bonds) with a tax return. 
 
 - Redeem US I bonds
