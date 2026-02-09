@@ -43,6 +43,7 @@ Butterfly stroke hand movement consists of four main phases:
 ##### Important Tips
 - Key to efficiency is accelerating the hand speed through the pull; keeping the elbows high; and using the momentum to lift arms over the water 
 
+## Lessions
 ### 20260208
 
 Backstroke Finish
