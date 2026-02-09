@@ -13,6 +13,7 @@ Breaststroke hand stroke hand movement consists of four phases:
 - Recovery: rapidly shoot forward  into a glide
 	- Hands and arms are pushed forward from under the chest back to the starting, streamlined position. 
 - Glide: the final, momentary phase of holding the streamline position before the next stroke.
+
 The motion is often described as "pull, breath, kick, glide"
 ##### Important Tips 
 - Timing: the kick occurs during the recovery phase, while the head lifts to breath during the pull / in-sweep.
