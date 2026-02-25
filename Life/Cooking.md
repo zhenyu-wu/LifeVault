@@ -23,3 +23,6 @@ Lobster
 
 [烤鸭](https://www.youtube.com/watch?v=fDQ3DeiLKsU)
 - Duck breast (from Aldi)
+
+
+[Costco Pork Lion Chop](https://www.youtube.com/watch?v=px5etlfvfj4)

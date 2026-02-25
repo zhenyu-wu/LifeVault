@@ -5,3 +5,7 @@
 
 How to read stock price charts
 - [Candlestick patterns](https://youtu.be/620RJeJErIM)
+
+
+**You get rich by specializing. You stay rich by diversifying.**
+
