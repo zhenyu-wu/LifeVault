@@ -9,3 +9,8 @@ How to read stock price charts
 
 **You get rich by specializing. You stay rich by diversifying.**
 
+
+## Retirement
+
+[IRA Backdoor Conversion](https://claude.ai/share/95885074-710b-4efb-8c7b-33461d42c5b4)
+
