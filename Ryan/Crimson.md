@@ -1,4 +1,3 @@
-![[Screenshot 2026-03-03 at 9.24.08 PM.png]]
 Yale Young Global Scholars [YYGS](https://globalscholars.yale.edu/)
 
 UC Santa Barbara [MCP](https://www.summer.ucsb.edu/programs/research-mentorship-program/overview) Program
