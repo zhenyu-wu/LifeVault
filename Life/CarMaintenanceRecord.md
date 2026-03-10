@@ -23,6 +23,7 @@
 	- Suspension Ball Joint: both front lower bal joints have torn boots and are leaking
 	- Flush hydraulic brake system (recommended)
 	- Coolant system SVC (recommended) 
+		- **Use Toyota SLLC or equivalent** — don't let a shop use generic green coolant, as it can degrade seals faster on Toyota engines
 	- Rear differential leak
 	- Replace spark plugs 
 
