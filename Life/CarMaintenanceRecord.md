@@ -26,6 +26,7 @@
 		- **Use Toyota SLLC or equivalent** — don't let a shop use generic green coolant, as it can degrade seals faster on Toyota engines
 	- Rear differential leak
 	- Replace spark plugs 
+- 03/2026: brake fluid flush @ 118.7K (Kingston garage / $140) 
 
 ## Honda Accord
 
