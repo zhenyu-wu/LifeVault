@@ -37,6 +37,7 @@
 - 01/2023: new battery ($118)
 - 11/2023: transmission flush ($197)
 - 03/2024: side mirror repair ($214)
-- 02/2026: Oil change @ 88.5K (Mavis), synthetic oil ($85)
+- 08/2025: oil change @82.8K (dealer, $69)
+- 02/2026: oil change @ 88.5K (Mavis), synthetic oil ($85)
 - 03/2026: 4 new tires @88.5K (Costco / $840) 
 
