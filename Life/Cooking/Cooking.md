@@ -16,6 +16,7 @@ Lobster
 - [葱爆龙虾](https://www.youtube.com/watch?v=CI2z2r2ftIc)
 - [蒸龍蝦尾](https://www.youtube.com/watch?v=5ucmGE0RTlc)
 - [龍蝦伊麵](https://www.youtube.com/watch?v=LLAaxfJpRA4)
+- [Costco 蒜蓉粉丝龙虾尾](https://www.youtube.com/watch?v=4TGWDPCxAr8&t=16s)
 
 [蒜蓉黄油香煎大虾](https://www.youtube.com/watch?v=QGAxAR-4M00)
 
