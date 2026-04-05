@@ -2,6 +2,10 @@
 Ground Beef Menu
 -  [Ground beef sauce noodle](https://www.youtube.com/watch?v=-y6F05QQy5Y)
 
+
+[Costco牛腱](https://www.youtube.com/watch?v=5IOMVaPeijI)
+
+
 Homemade Chipotle
 - Lime rice (package box) from Costco
 - Chipotle grilled chicken from Costco
