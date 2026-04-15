@@ -2,9 +2,7 @@
 Ground Beef Menu
 -  [Ground beef sauce noodle](https://www.youtube.com/watch?v=-y6F05QQy5Y)
 
-
 [Costco牛腱](https://www.youtube.com/watch?v=5IOMVaPeijI)
-
 
 Homemade Chipotle
 - Lime rice (package box) from Costco
@@ -21,13 +19,11 @@ Lobster
 - [蒸龍蝦尾](https://www.youtube.com/watch?v=5ucmGE0RTlc)
 - [龍蝦伊麵](https://www.youtube.com/watch?v=LLAaxfJpRA4)
 - [Costco 蒜蓉粉丝龙虾尾](https://www.youtube.com/watch?v=4TGWDPCxAr8&t=16s)
-
-[蒜蓉黄油香煎大虾](https://www.youtube.com/watch?v=QGAxAR-4M00)
+- [蒜蓉黄油香煎大虾](https://www.youtube.com/watch?v=QGAxAR-4M00)
 
 [家常烩豆腐](https://www.youtube.com/watch?v=QIS-kL_xKD4)
 
 [烤鸭](https://www.youtube.com/watch?v=fDQ3DeiLKsU)
 - Duck breast (from Aldi)
-
 
 [Costco Pork Lion Chop](https://www.youtube.com/watch?v=px5etlfvfj4)
