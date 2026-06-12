@@ -19,14 +19,17 @@
 - 08/2024: tire repair (Mavis / $26)
 - 06/2025: rear wheel bearing replacement (Kingston Garage / $736)
 - 03/2026: TPMS Sensor (passenger rear) replacement (Costco): $65
-- 03/2026:
-	- Suspension Ball Joint: both front lower bal joints have torn boots and are leaking
+- 03/2026: oil change at dealership with the following problems: 
+	- Suspension Ball Joint: both front lower ball joints have torn boots and are leaking
 	- Flush hydraulic brake system (recommended)
 	- Coolant system SVC (recommended) 
 		- **Use Toyota SLLC or equivalent** — don't let a shop use generic green coolant, as it can degrade seals faster on Toyota engines
 	- Rear differential leak
 	- Replace spark plugs 
-- 03/2026: brake fluid flush @ 118.7K (Kingston garage / $140) 
+- 03/2026: brake fluid flush @ 118.7K (Kingston Garage / $140) 
+- 06/2026: AC replacement at Princeton Auto Repair
+	-  AC Compressor + Condensor + Recharge + labor: $1,800
+	-  Inspection + Recharge: $314.54
 
 ## Honda Accord
 
