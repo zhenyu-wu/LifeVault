@@ -7,7 +7,6 @@ published: 2026-06-26
 created: 2026-06-27
 description:
 tags:
-  - clippings
 ---
 The stock market will provide.
 
