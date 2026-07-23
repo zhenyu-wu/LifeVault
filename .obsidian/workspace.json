@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c027209d89763acf",
+        "id": "96138fe6426f93b5",
         "type": "tabs",
         "children": [
           {
-            "id": "13eb2201609347ae",
+            "id": "92b5f7256a522e84",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Screenshot 2026-03-03 at 9.24.08 PM.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2026-03-03 at 9.24.08 PM"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
