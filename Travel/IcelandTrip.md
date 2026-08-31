@@ -2,7 +2,7 @@
 
 We began our trip on 8/17 evening from EWR and landed at KEF on 8/18 morning. With the red-eye flight, I felt a bit dizzy walking out of the airport. After getting our rental car, we went straight to Reykjavik's downtown old harbor area.  We strolled along the river bank, looking over the islands across and the bay. Along the way, we also visited a couple of gift shops and had an expensive lunch of Japanese noodles, before heading to the famous `Hallgrimskirkja` church. Its structure is iconic, with big columns on the two sides of its façade. It is said to be inspired by the basalt rocks common in the country.  Ryan and Melody took the elevator to the top platform to oversee the entire city.
 
-After the church, we drove to our 2nd stop: the `Perlan` museum, where we took two tours there. In the 1st tour, we walked through an man-made ice cave not very big. In the 2nd tour, we were first shown a movie about the geographic introduction of the island, followed by another 3D-max movie that took us deep down into a volcano. It was feeling really and astonishing.
+After the church, we drove to our 2nd stop -- the `Perlan` museum, where we took two tours there. In the 1st tour, we walked through an man-made ice cave not very big. In the 2nd tour, we were first shown a movie about the geographic introduction of the island, followed by another 3D-max movie that took us deep down into a volcano. It was feeling really and astonishing.
 
 Leaving the museum, we made a stop to Costco to do some grocery shopping together with a quick diner, before going to our Airbnb.
 
@@ -32,7 +32,7 @@ The next stop on our schedule today was another waterfall called `Skogafoss`.   
 
 We will spend the night at a town called Vik, and nearby the town is the famous Black Sand Beach. The sand is all black from the volcano ashes, and on the west side the beach there are basalt column cliffs, where lots of puffins like to dwell. That is also a tourist attraction, where people can climb the cliffs at different height to get great pictures. 
 
-We spent the night at a guesthouse in Vik. It was very quiet and clean, with well-stocked food. We had lamb soup in a bread bowl at the nearby soup company.  
+We spent the night at a guesthouse in Vik. It was very quiet and clean, with well-stocked food. We had lamb soup in a lava-bread bowl at the nearby soup company.  
 
 ![[PXL_20260820_123446517.MP.jpg | 300]] ![[PXL_20260820_124023724.MP.jpg | 300]]
 
