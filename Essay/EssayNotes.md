@@ -43,3 +43,9 @@ Stoicism is an ancient Greek and Roman philosophy focused on living a virtuous, 
 For those who already bore a *cognomen*,  *agnomen* was awarded as another exclusive name.  
 
 For eight decades, no Roman emperor had a legitimate son to make heir, and the new circumstance forced a difficult choice on Marcus. Selective adoption had served the empire extremely well, producing a run of sound rulers that has come to be known as the Five Good Emperors. 
+
+
+According to Jewish tradition, God opens the gates of heaven on Rosh Hashanah and closes them when the sun sets at the end of Yom Kippur. The period is known as the Ten Days of Repentance or the Days of Awe .. People are commonly greeted by wishing that their names be inscribed in the Book of Life -- because on Rosh Hashanah God examines our past deeds and determines our individual fates for the following year ... In America, traditional religious views are strongly correlated with conservative politics. Jonathan Haidt wrote about this connection in “The Righteous Mind: Why Good People Are Divided by Politics and Religion.” He discusses a theory of human morality embracing three ethics that drive human behavior: autonomy, divinity and community. In secular Western countries, autonomy is the driving moral ethic, while the two other
+ethics dominate elsewhere. Mr. Haidt’s research also finds that even within societies with a prevailing autonomy ethic, the ethics of divinity and community are much stronger within religious and conservative spaces.
+
+
