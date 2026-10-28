@@ -43,3 +43,38 @@
 
 
 [Stair Exercises for building glutes and quads](https://share.google/aimode/dS19kRqiVd7ZFgeNp)
+
+10/18/2026 22-mile run analysis
+
+1. Performance Condition Drops (Mid-Run Fatigue & Fueling Gap)
+
+	- **What the chart shows:** Around **1:30:00 to 2:00:00**, your **Performance Condition** (the light blue bar) dips down to **-1** and briefly cuts out or drops near zero, before recovering slightly in the final hour.
+	
+	- **What it means:** Performance Condition measures heart rate variablity and real-time efficiency compared to your baseline fitness. A drop here signals either brief physical degradation (muscle fatigue/tightness) or glycogen depletion (early bonking/fuel shortage).
+	
+	- **The Fix:** Evaluate your in-run fueling strategy. If you aren't consuming **40–60g of carbohydrates per hour** (e.g., 1–2 gels or equivalent energy sources every 30 minutes) along with electrolytes and water, you will experience these micro-slumps as liver and muscle glycogen deplete around the 90-minute mark.
+	
+2. Slight Heart Rate Drift in the Final 30 Minutes
+
+	- **What the chart shows:** Your Heart Rate (HR) stays exceptionally stable around **138–142 bpm** for the first 2.5 hours, but creeps up closer to **148–152 bpm** past the **2:46:40** mark despite keeping the pace completely flat at 9:14 min/mile.
+    
+	- **What it means:** This is **cardiac drift**, caused by accumulated muscular fatigue, slight dehydration, or body temperature increase.
+    
+	- **The Fix:** While mild HR drift is expected during a 22-miler, heading into race day with slightly higher late-run hydration and electrolyte intake will help suppress excessive drift in the final 6 miles.
+	
+3. Vertical Ratio (10.3%)
+
+	- **What the chart shows:** Your vertical ratio averages **10.3%**, with the red scatter dots hovering between 10% and 12% throughout the run.
+    
+	- **What it means:** Vertical Ratio measures vertical oscillation (up-and-down bounce) divided by stride length. For efficient long-distance runners, the target is generally **under 8–9%**. At 10.3%, a small portion of your energy is being spent moving vertically rather than forward.
+    
+	- **The Fix:**
+	    - Focus on **cueing "forward lean from the ankles"** rather than jumping off the toes.
+	    - Your **174 spm cadence** is great; keeping cadence quick while driving the hips forward slightly will automatically lower your vertical ratio and reduce leg impact fatigue over 26.2 miles.
+
+|                   | Taper & Race Day Timeline                      |
+| :---------------- | :--------------------------------------------- |
+| Week 1 -2 (Taper) | Cut volume by ~ 25-30%, hold short MP interval |
+| Mile 1 - 13       | Lock into steady Zone 2/3 effort (~140 bpm)    |
+| Mile 14 - 20      | Bank energy: fuel every 30 mins                |
+| Mile 21 - 26.2    | Push remaining gear along Kelly Drive          |
